@@ -1,6 +1,6 @@
 # vue-infinite-scroll
 
-vue-infinite-scroll is an infinite scroll directive for vue.js.
+vue-infinite-scroll is an infinite scroll directive for vue.js. `add pull refresh feature extend base api`
 
 # Install
 
